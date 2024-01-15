@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Domenico
 
-I'm a PhD candidate at the [CIMIL](https://www.cimil.disi.unitn.it/) working on AI and music.
+I'm a post-doctoral researcher at the [CIMIL](https://www.cimil.disi.unitn.it/) working on AI and music.
 
 My research is on Deep Learning on embedded computers for:
 - 🎸 Real-time **Guitar technique recognition** 
