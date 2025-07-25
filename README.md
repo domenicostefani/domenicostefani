@@ -1,6 +1,10 @@
 ## Hi 👋 I'm Dom (Domenico)
 
-I'm a post-doctoral researcher working on AI and Music at the [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.
+I'm a post-doctoral researcher working on Machine Learning and Music at the [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.  
+More info about my work is on my [website 🌐](https://www.domenicostefani.com/about.html).
+
+I also develop audio plugins as [Onyx DSP](https://www.domenicostefani.com/onyxdsp)  
+<img src="https://github.com/user-attachments/assets/464d34da-462f-4640-8f26-a4fdc26591da" style="width: 25%;">
 
 Some of my recent research projects are:
 - 🎸 Neural Modeling of multiple Guitar Effects at once with control conditioning from a smooth latent/vector space ([morphdrive repo](https://github.com/domenicostefani/morphdrive)),
@@ -10,7 +14,6 @@ Some of my recent research projects are:
 - 🎸 Deep Learning on embedded computers for  Real-time **Guitar technique recognition**
 
 I'm passionate about music, *audio software development* and have been coding C++ JUCE plugins since 2020.  
-More info about my work is on my [website 🌐](https://www.domenicostefani.com/about.html).
 
 <div align="center" style="vertical-align: middle;">
   <div style="width: 100%; vertical-align: middle;">
@@ -26,9 +29,9 @@ I also love to play the guitar and twist knobs on synths like I know what I'm do
 
 ### Some Publications
 
+- F. A. Dal Rì, D. Stefani, L. Turchet, N. Conci. [**Morphdrive: Latent Conditioning For Cross-Circuit Effect Modeling And A Parametric Audio Dataset Of Analog Overdrive Pedals**](https://domenicostefani.com/morphdrive/), Accepted at the 28-th Int. Conf. on Digital Audio Effects (DAFx25), 
 - D. Stefani. M. Tomasetti, F. Angeloni and L. Turchet. [**Esteso: Interactive AI Music Duet Based on Player-Idiosyncratic Extended Double Bass Techniques**](https://www.nime.org/proc/nime2024_72/index.html). In Proceedings of the International Conference on New Interfaces for Musical Expression (NIME'24), Utrecht, The Netherlands. September 2024
 - D. Stefani, S. Peroni, and L. Turchet. [**A Comparison of Deep Learning Inference Engines for Embedded Real-Time Audio Classification**](https://domenicostefani.com/publications/2022DAFX_1_Comparison.pdf). In Proceedings of the 25-th International Conference on Digital Audio Effects (DAFx20in22), volume 3, pages 256–263, Sept. 2022;
-- D. Stefani and L. Turchet. [**Real-Time Embedded Deep Learning on Elk Audio OS**](https://domenicostefani.com/publications/2023IS2_guide.pdf). in Proceedings of the 4<sup>th</sup> International Symposium on the Internet of Sounds (IS<sup>2</sup>), Pisa, Italy. October 2023
 
 <div align="center" style="vertical-align: middle;">
 <a href="https://domenicostefani.com/cv/publist.pdf" target="blank"> >>Publication List<< </a>
