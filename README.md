@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Dom (Domenico)
 
-I'm a post-doctoral researcher working on Machine Learning and Music at the [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.  
+I'm an assistant professor (RTD-A researcher) working on Machine Learning and Music at the [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.  
 More info about my work is on my [website 🌐](https://www.domenicostefani.com/about.html).
 
 I also develop audio plugins as [Onyx DSP](https://www.domenicostefani.com/onyxdsp)  
