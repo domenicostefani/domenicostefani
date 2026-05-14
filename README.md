@@ -36,8 +36,8 @@ I also love to play the guitar and twist knobs on synths like I know what I'm do
 <div align="center" style="vertical-align: middle;">
 <a href="https://domenicostefani.com/cv/publist.pdf" target="blank"> >>Publication List<< </a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domenicostefani&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+![Top Languages](./profile/top-langs.svg)
 <!--
 Here are some ideas to get you started:
 
