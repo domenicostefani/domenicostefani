@@ -1,6 +1,10 @@
 ## Hi 👋 I'm Dom (Domenico)
 
-I'm an assistant professor (RTD-A researcher) working on Machine Learning and Music at the [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.  
+
+I am an applied Machine Learning researcher, working in music technology at <a href="https://www.ikmultimedia.com/" target="_blank">IK Multimedia Production</a>.
+
+I previously served as an assistant professor (RTD-A) at the University of Trento, Italy.
+ <!-- [CIMIL](https://www.cimil.disi.unitn.it/), University of Trento. Italy 🇮🇹.   -->
 More info about my work is on my [website 🌐](https://www.domenicostefani.com/about.html).
 
 I also develop audio plugins as [Onyx DSP](https://www.domenicostefani.com/onyxdsp)  
@@ -10,8 +14,8 @@ Some of my recent research projects are:
 - 🎸 Neural Modeling of multiple Guitar Effects at once with control conditioning from a smooth latent/vector space ([morphdrive repo](https://github.com/domenicostefani/morphdrive)),
 - 🪐 6-degrees-of-freedom Spatial Audio VST plugin development ([MCFX-6DoFconv repo](https://github.com/domenicostefani/6DoF-SpatialAudioConvolver)),
 - 🎻 An AI music improviser based on extended playing techniques that duets with a double bass player ([esteso](https://github.com/domenicostefani/esteso)),
-- 🎹 Deep Learning on embedded computers for  Real-time and offline **Emotion Recognition from improvised music**,
-- 🎸 Deep Learning on embedded computers for  Real-time **Guitar technique recognition**
+<!-- - 🎹 Deep Learning on embedded computers for  Real-time and offline **Emotion Recognition from improvised music**, -->
+<!-- - 🎸 Deep Learning on embedded computers for  Real-time **Guitar technique recognition** -->
 
 I'm passionate about music, *audio software development* and have been coding C++ JUCE plugins since 2020.  
 
